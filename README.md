@@ -1,1 +1,1 @@
-# C-for-Bsc-5th
+Doing examples and exercises and some stuffs
